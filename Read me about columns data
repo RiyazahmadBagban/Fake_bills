@@ -1,0 +1,9 @@
+In this notebook we are going to predict if a bank note is true or false based on different measurements. There are five measurements:
+
+length, the length of the banknote in mm
+height left, the height of the left side of the banknote in mm
+height right, the height of the right side of the bank note in mm
+diagonal, the diagonal of the bank note in mm
+margin low, lower side margin in mm
+margin up, upper side margin in mm
+The last column is_genuine is the target
